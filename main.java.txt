@@ -7,5 +7,6 @@ classe Test
 >>>>>>> hotfix
 //newline
 //newline3
+//new
     } 
 };
