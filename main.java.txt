@@ -1,0 +1,10 @@
+classe Test 
+{ 
+    public static void main(String []args) 
+    { 
+<<<<<<< HEAD
+        System.out.println("Mon premier GIT modif 126"); 
+>>>>>>> hotfix
+//newline
+    } 
+};
