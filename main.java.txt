@@ -6,5 +6,6 @@ classe Test
         System.out.println("Mon premier GIT modif 126"); 
 >>>>>>> hotfix
 //newline
+//newline3
     } 
 };
